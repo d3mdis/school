@@ -1,2 +1,1 @@
-# school
-FIT VUT school HWs and projects
+# FIT VUT school HWs and projects
